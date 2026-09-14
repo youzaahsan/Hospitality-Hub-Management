@@ -1,0 +1,6 @@
+{
+  "name": "LuxuryStay Hotel Management System",
+  "description": "Comprehensive luxury hotel management platform covering reservations, rooms, billing, housekeeping, services, staff operations, and guest portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

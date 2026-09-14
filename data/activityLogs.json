@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "act-1788991512402-zgdfgr",
+    "createdAt": "2026-09-09T22:05:12.402Z",
+    "updatedAt": "2026-09-09T22:05:12.402Z",
+    "userId": "user-admin",
+    "userName": "Alexandra Sterling",
+    "userRole": "admin",
+    "action": "USER_LOGGED_IN",
+    "entityType": "auth",
+    "entityId": "user-admin",
+    "details": "User logged in from 127.0.0.1."
+  },
+  {
+    "_id": "act-1788991509541-4budtu",
+    "createdAt": "2026-09-09T22:05:09.541Z",
+    "updatedAt": "2026-09-09T22:05:09.541Z",
+    "userId": "user-admin",
+    "userName": "Alexandra Sterling",
+    "userRole": "admin",
+    "action": "USER_LOGGED_IN",
+    "entityType": "auth",
+    "entityId": "user-admin",
+    "details": "User logged in from 127.0.0.1."
+  },
+  {
+    "_id": "act-1788991198310-3o5tpt",
+    "createdAt": "2026-09-09T21:59:58.309Z",
+    "updatedAt": "2026-09-09T21:59:58.309Z",
+    "userId": "user-admin",
+    "userName": "Alexandra Sterling",
+    "userRole": "admin",
+    "action": "USER_LOGGED_IN",
+    "entityType": "auth",
+    "entityId": "user-admin",
+    "details": "User logged in from 127.0.0.1."
+  },
+  {
+    "_id": "act-001",
+    "userName": "Elena Rostova",
+    "userRole": "receptionist",
+    "action": "GUEST_CHECK_IN",
+    "entityType": "reservation",
+    "entityId": "res-001",
+    "details": "Completed check-in for Julian Montgomery into Room 201 (Ocean Panorama Suite). Keycard issued.",
+    "createdAt": "2026-09-08T15:20:00.000Z"
+  },
+  {
+    "_id": "act-002",
+    "userName": "Marcus Vance",
+    "userRole": "manager",
+    "action": "GUEST_CHECK_OUT",
+    "entityType": "reservation",
+    "entityId": "res-003",
+    "details": "Completed check-out for Dr. Alistair & Claire Vance. Final folio paid in full ($4,312.00). Room 301 status set to Cleaning.",
+    "createdAt": "2026-09-08T10:45:00.000Z"
+  },
+  {
+    "_id": "act-003",
+    "userName": "Carlos Mendez",
+    "userRole": "housekeeping",
+    "action": "HOUSEKEEPING_STATUS_UPDATE",
+    "entityType": "housekeeping",
+    "entityId": "hsk-001",
+    "details": "Started checkout deep cleaning for Room 301.",
+    "createdAt": "2026-09-09T11:00:00.000Z"
+  }
+]
